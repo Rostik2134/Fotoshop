@@ -1,1 +1,76 @@
-
+![скриншот начальный  вес 328 кб, размер 1920X1080px ]( ![2  Хаски](https://github.com/user-attachments/assets/eaf5dc8b-91ea-44d6-8a4e-1ccaaf6fe54f)
+)
+![ Вес после уменшения  125 кб - 63% веса файла,размер 1920X1080 px ](  ![2  Хаски](https://github.com/user-attachments/assets/b021ab96-aeca-4cc1-9190-0c99c3c1420c)
+)
+![фото начальный вес 8кб, размер 144X192px](![1000000356 ](https://github.com/user-attachments/assets/20129b75-06f6-4e68-85fa-8818e7f6049a)
+)
+![фото после уменьшения вес 4кб -52% веса, размер 144X192px]( ![1000000356 ](https://github.com/user-attachments/assets/eec142e4-9355-4a2c-a414-606781aef385)
+)
+![фото начальный вес 6.28кб, размер 295X171px]![Граф](https://github.com/user-attachments/assets/a31c70cc-8d22-4644-9103-c9b259e64914)
+)
+![ Вес после уменшения  5.70кб -0.9% веса файла,размер 295X171px ]![Граф](https://github.com/user-attachments/assets/983519fc-3ea8-4603-b6f6-b6b2b605ce61)
+)
+![Вес без потери качества  1.07 Mb] ![2  Хаски (1)](https://github.com/user-attachments/assets/5b43feb6-fad9-4bc2-9a06-c4310a3de7de)
+)
+![Вес без потери качества 49 кб] ![1000000356](https://github.com/user-attachments/assets/484c1e8c-edf3-47ad-af95-8788b3f85152)
+)
+![Вес без потери качества 16.1 кб]![Граф](https://github.com/user-attachments/assets/b708457e-33bd-4d63-af93-afaa8cd5a6ce)
+)
+![ Вес без потери качества  1.28 Mb]![image](https://github.com/user-attachments/assets/6691d993-dde9-4bfa-90f2-d969801f0834)
+)
+![Вес без потери качества 24.9кб]![image](https://github.com/user-attachments/assets/d2b11108-163f-4a0f-8625-4181093143e2)
+)
+![Вес без потери качества 5.23 кб]![image](https://github.com/user-attachments/assets/1e4eb8fb-a11e-453a-a52e-7f46a305e1cb)
+)
+![ Вес с потерей качества  MozJPEG 100% 421 кб]![2  Хаски (2)](https://github.com/user-attachments/assets/4e1d2319-b000-4720-ae72-0040ecbdebed)
+)
+![Вес с потерей качества  MozJPEG 75% 121 кб]![2  Хаски (3)](https://github.com/user-attachments/assets/7df642f9-49ae-40ba-ae77-9155bfebe321)
+)
+![Вес с потерей качества  MozJPEG 50% 73.1 кб]![2  Хаски (4)](https://github.com/user-attachments/assets/3d84cab0-c2f1-43cf-8312-69842d6fa673)
+)
+![Вес с потерей качества  WebP 100% 430 кб]![image](https://github.com/user-attachments/assets/3cc63aea-b0ba-4f2d-ab22-efd24ca56ac2)
+)
+![Вес с потерей качества  WebP 50% 57.7 кб]![image](https://github.com/user-attachments/assets/1be0c39c-b47c-49ef-a604-a08dfa11f7a9)
+)
+![Вес с потерей качества  WebP 75% 82.6 кб]![image](https://github.com/user-attachments/assets/ecb0e6f8-58e7-4aeb-b9e7-2efc76242e59)
+)
+![Вес с потерей качества  AVIF 100% 382 кб]![image](https://github.com/user-attachments/assets/b0c981f4-59e7-4cbf-8063-9082caaa1acd)
+)
+![[Вес с потерей качества  AVIF 75% 110 кб]![image](https://github.com/user-attachments/assets/5421bd39-9e3d-4dcf-969f-586e98f50a6f)
+)
+![Вес с потерей качества  AVIF 50% 42кб]![image](https://github.com/user-attachments/assets/b76d931a-e320-4e16-ac31-dca7464d85e5)
+)
+![Вес с потерей качества  AVIF 20% 12.4кб минимально допустимое снижение качества]![image](https://github.com/user-attachments/assets/80bafa40-ff54-43ee-8747-4341753954fc)
+)
+![Вес с изменной ширины 1200px 60.3кб]![2  Хаски (5)](https://github.com/user-attachments/assets/5045865a-51c5-4f77-b3dc-6606bfc65406)
+)
+![Вес с изменной ширины 600px 21.7кб]![2  Хаски (6)](https://github.com/user-attachments/assets/6de6da1d-f6f3-449d-936e-05b7fdc38cd3)
+)
+![Вес с изменной ширины 2Xpx 167кб]![2  Хаски (7)](https://github.com/user-attachments/assets/bc24ba18-2fae-4237-836e-b351665ee34b)
+)
+![Вес с изменной ширины 1200px 55,5кб]![1000000356 (1)](https://github.com/user-attachments/assets/64c442f9-b756-4230-8969-123936c1db35)
+)
+![[Вес с изменной ширины 600px 22.9кб]![1000000356 (2)](https://github.com/user-attachments/assets/76007014-d223-4afc-b5b6-ce3a88799d17)
+)
+![Вес с изменной ширины 2Xpx 8.85кб]![1000000356 (3)](https://github.com/user-attachments/assets/743bdfa7-f2c0-4f88-a821-77c65fc25b3a)
+)
+![Вес с изменной ширины 1200px 31кб]![Граф (1)](https://github.com/user-attachments/assets/471c50fd-39ff-4491-9313-2f1d4c936b84)
+)
+![Вес с изменной ширины 600px 13.6кб]![Граф (2)](https://github.com/user-attachments/assets/2fbe7b6c-c824-496b-9e61-9f36af424a0b)
+)
+![Вес с изменной ширины 2Xpx 12.9кб]![Граф (4)](https://github.com/user-attachments/assets/47dbdd87-7d04-48ef-a09c-fc13e53399c5)
+)
+| PNG | WebP |MozJPEG |AVIF |
+| ----| -----|--------|-----|
+|скриншот начальный  вес 328 кб, размер 1920X1080px|Вес без потери качества  1.28 Mb|Вес с потерей качества  MozJPEG 100% 421 кб|Вес с потерей качества  AVIF 100% 382 кб
+|Вес после уменшения  125 кб - 63% веса файла,размер 1920X1080 px|Вес без потери качества 24.9кб|Вес с потерей качества  MozJPEG 75% 121 кб|Вес с потерей качества  AVIF 75% 110 кб
+|фото начальный вес 8кб, размер 144X192px|Вес без потери качества 5.23 кб|Вес с потерей качества  MozJPEG 50% 73.1 кб|Вес с потерей качества  AVIF 50% 42кб
+|после уменьшения вес 4кб -52% веса, размер 144X192px|Вес с потерей качества  WebP 100% 430 кб|Вес с изменной ширины 1200px 60.3кб|Вес с потерей качества  AVIF 20% 12.4кб минимально допустимое снижение качества
+|фото начальный вес 6.28кб, размер 295X171px|Вес с потерей качества  WebP 75% 82.6 кб|Вес с изменной ширины 600px 21.7кб
+|Вес после уменшения  5.70кб -0.9% веса файла,размер 295X171px|Вес с потерей качества  WebP 50% 57.7 кб|Вес с изменной ширины 2Xpx 167кб
+|Вес без потери качества  1.07 Mb||Вес с изменной ширины 1200px 55,5кб
+|Вес без потери качества 49 кб||Вес с изменной ширины 600px 22.9кб
+|Вес без потери качества 16.1 кб||Вес с изменной ширины 2Xpx 8.85кб
+|||Вес с изменной ширины 1200px 31кб
+|||Вес с изменной ширины 600px 13.6кб
+|||Вес с изменной ширины 2Xpx 12.9кб
